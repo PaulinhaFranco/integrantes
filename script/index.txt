@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+  <head>
+    <meta charset="UFT-8">
+      <html = style="background-color: #87CEFA33;"> 
+        <title>AtividadeDW</title>
+  </head>
+
+  <body>
+
+<center>
+    <h1 style="background-color: #0000CD50;color: white;">DESENVOLVIMENTO WEB</h1>
+    <h2>PROF. LEONARDO</h2>
+    <h3>Análise e Desenvolvimento de Sistemas - 3 período</h3>
+
+    <img style="width:230px;height:200px" src="imagens/imagem1.png" alt="toy history">
+
+    <p>
+        <b style="background-color: #0000CD50;color: white">INTEGRANTES</b><br><br>
+        <b>ALYSON ALVES</b><br>
+        <b>MATHEUS DA COSTA</b><br>
+        <b>PAULA FRANCO</b><br>
+    </p>
+
+    <p>
+        <a href="https://paulinhafranco.github.io/papelaria/" target="_blank"><b style="color:deeppink;">ACESSE À ATIVIDADE AQUI!</b></a>
+    </p>
+</center>
+
+ </body>
+</html>
